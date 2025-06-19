@@ -1,0 +1,100 @@
+{
+  "country": "Germany",
+  "report_year": 2023,
+  "title": "OECD Economic Survey: Germany 2023",
+  "executive_summary": {
+    "overview": "Germany's economy demonstrated resilience amid global uncertainties, with steady growth and strong fundamentals.",
+    "gdp_growth": "1.8%",
+    "key_strengths": [
+      "Strong manufacturing sector",
+      "High productivity levels",
+      "Excellent education system",
+      "Low unemployment"
+    ],
+    "main_challenges": [
+      "Aging population",
+      "Energy transition costs",
+      "Digital transformation needs",
+      "Infrastructure modernization"
+    ]
+  },
+  "economic_indicators": {
+    "gdp_billion_usd": 4259.9,
+    "gdp_per_capita_usd": 51203,
+    "population_millions": 83.2,
+    "unemployment_rate": 3.1,
+    "inflation_rate": 6.9,
+    "current_account_surplus": 4.2,
+    "government_debt_percent_gdp": 66.1
+  },
+  "education_system": {
+    "education_spending_percent_gdp": 4.9,
+    "pisa_scores": {
+      "mathematics": 489,
+      "reading": 498,
+      "science": 503
+    },
+    "vocational_training": {
+      "participation_rate": 59.0,
+      "description": "Germany's dual education system combines classroom learning with practical work experience"
+    },
+    "higher_education": {
+      "enrollment_rate": 70.2,
+      "international_students": 374821,
+      "research_spending_percent_gdp": 3.13
+    }
+  },
+  "social_indicators": {
+    "gini_coefficient": 0.327,
+    "poverty_rate": 9.6,
+    "life_expectancy": 81.2,
+    "healthcare_spending_percent_gdp": 11.7
+  },
+  "trade_and_investment": {
+    "exports_billion_usd": 1689.1,
+    "imports_billion_usd": 1556.9,
+    "trade_balance_billion_usd": 132.2,
+    "fdi_inward_stock_billion_usd": 1058.3,
+    "main_export_partners": [
+      "United States",
+      "France",
+      "China",
+      "Netherlands",
+      "United Kingdom"
+    ],
+    "main_export_products": [
+      "Machinery",
+      "Vehicles",
+      "Chemical products",
+      "Electronics",
+      "Pharmaceuticals"
+    ]
+  },
+  "policy_recommendations": [
+    {
+      "area": "Digital Transformation",
+      "recommendation": "Accelerate digitalization across all sectors, particularly in public administration and SMEs"
+    },
+    {
+      "area": "Energy Transition",
+      "recommendation": "Invest in renewable energy infrastructure and grid modernization to achieve carbon neutrality goals"
+    },
+    {
+      "area": "Education",
+      "recommendation": "Strengthen STEM education and promote digital literacy at all educational levels"
+    },
+    {
+      "area": "Demographics",
+      "recommendation": "Implement policies to address aging population challenges and attract skilled immigration"
+    },
+    {
+      "area": "Innovation",
+      "recommendation": "Increase R&D investment and support startup ecosystem development"
+    }
+  ],
+  "outlook": {
+    "short_term": "Moderate growth expected with gradual recovery from energy crisis impacts",
+    "medium_term": "Structural reforms needed to maintain competitiveness in global markets",
+    "long_term": "Demographic transition will require significant policy adjustments"
+  }
+}

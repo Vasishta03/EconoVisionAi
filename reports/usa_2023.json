@@ -1,0 +1,92 @@
+{
+  "country": "United States",
+  "report_year": 2023,
+  "title": "OECD Economic Outlook: United States 2023",
+  "key_findings": {
+    "economic_growth": "The US economy showed robust growth of 2.1% in 2022, driven by strong consumer spending and business investment",
+    "labor_market": "Unemployment fell to historic lows of 3.7%, with strong job creation across multiple sectors",
+    "inflation_trends": "Inflation peaked at 9.1% in mid-2022 but declined to 3.2% by end of year following Federal Reserve actions"
+  },
+  "macroeconomic_data": {
+    "gdp_nominal_trillion_usd": 25.46,
+    "gdp_per_capita_usd": 76329,
+    "population_millions": 333.3,
+    "labor_force_participation": 63.4,
+    "productivity_growth": 1.3,
+    "federal_deficit_percent_gdp": 5.8,
+    "national_debt_percent_gdp": 123.4
+  },
+  "education_performance": {
+    "education_spending_percent_gdp": 6.1,
+    "per_student_spending_usd": 13600,
+    "pisa_rankings": {
+      "mathematics": 36,
+      "reading": 13,
+      "science": 18,
+      "note": "Rankings among OECD countries"
+    },
+    "higher_education": {
+      "college_enrollment_rate": 88.2,
+      "student_debt_trillion_usd": 1.75,
+      "international_students": 948519
+    },
+    "education_challenges": [
+      "Achievement gaps between demographic groups",
+      "Rising costs of higher education",
+      "Teacher shortages in key subjects",
+      "Digital divide in remote learning"
+    ]
+  },
+  "inequality_analysis": {
+    "gini_coefficient": 0.434,
+    "income_inequality": "High compared to other developed nations",
+    "wealth_concentration": {
+      "top_1_percent_wealth_share": 32.1,
+      "top_10_percent_wealth_share": 69.8,
+      "median_household_income_usd": 70784
+    },
+    "poverty_statistics": {
+      "poverty_rate": 17.8,
+      "child_poverty_rate": 16.9,
+      "elderly_poverty_rate": 13.5
+    }
+  },
+  "sectoral_analysis": {
+    "technology": {
+      "contribution_to_gdp": 12.1,
+      "employment_millions": 5.2,
+      "innovation_index_rank": 3,
+      "rd_spending_percent_gdp": 3.45
+    },
+    "manufacturing": {
+      "contribution_to_gdp": 12.0,
+      "employment_millions": 12.8,
+      "productivity_index": 108.5
+    },
+    "services": {
+      "contribution_to_gdp": 67.9,
+      "employment_millions": 104.2,
+      "key_subsectors": [
+        "Financial services",
+        "Healthcare",
+        "Professional services",
+        "Retail trade"
+      ]
+    }
+  },
+  "policy_priorities": [
+    "Infrastructure modernization and climate resilience",
+    "Addressing income inequality through progressive taxation",
+    "Strengthening social safety nets and healthcare access",
+    "Investing in clean energy transition and green jobs",
+    "Improving education quality and affordability",
+    "Enhancing competitiveness in emerging technologies"
+  ],
+  "international_position": {
+    "trade_balance_billion_usd": -945.3,
+    "export_competitiveness_rank": 2,
+    "global_innovation_index_rank": 3,
+    "ease_of_doing_business_rank": 6,
+    "foreign_investment_attractiveness": "High, particularly in technology and financial services"
+  }
+}
