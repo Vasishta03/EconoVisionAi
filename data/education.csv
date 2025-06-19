@@ -1,0 +1,21 @@
+Country,Year,Education_Spending_Percent_GDP,Education_Spending_Per_Student_USD,Primary_Enrollment_Rate,Secondary_Enrollment_Rate,Tertiary_Enrollment_Rate
+United States,2022,6.1,13600,98.8,89.1,88.2
+Germany,2022,4.9,10800,99.2,96.2,70.2
+United Kingdom,2022,5.5,11000,99.9,94.8,59.7
+France,2022,5.4,10500,99.1,95.1,65.9
+Italy,2022,4.1,8900,99.4,94.3,63.1
+Japan,2022,3.2,10300,99.8,98.2,63.4
+Canada,2022,5.3,12100,99.5,95.8,71.3
+Australia,2022,5.0,11200,99.2,92.4,113.4
+India,2022,4.6,400,92.8,77.2,28.1
+Brazil,2022,6.0,3400,96.5,88.2,51.3
+South Africa,2022,6.2,1200,94.2,85.1,22.7
+Mexico,2022,5.2,2800,98.1,89.6,38.4
+Turkey,2022,4.3,3100,95.7,87.9,48.9
+South Korea,2022,4.3,8500,98.9,96.8,95.4
+Spain,2022,4.2,7800,99.3,93.7,89.5
+Netherlands,2022,5.2,11800,99.6,95.1,83.7
+Sweden,2022,7.6,13200,99.8,98.9,67.4
+Norway,2022,7.4,15300,99.9,97.2,76.8
+Denmark,2022,6.4,12800,99.7,96.8,81.2
+Finland,2022,6.8,12500,99.8,98.4,87.2
