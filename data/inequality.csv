@@ -1,0 +1,21 @@
+Country,Year,Gini_Coefficient,Income_Share_Top_10_Percent,Income_Share_Bottom_10_Percent,Poverty_Rate_Percent
+United States,2021,0.434,30.5,1.8,17.8
+Germany,2021,0.327,23.1,3.2,9.6
+United Kingdom,2021,0.351,24.7,2.8,11.7
+France,2021,0.292,21.4,3.3,8.1
+Italy,2021,0.334,24.0,2.3,13.2
+Japan,2021,0.334,24.8,2.7,15.7
+Canada,2021,0.305,22.8,2.6,12.1
+Australia,2021,0.325,23.9,2.0,13.4
+India,2021,0.357,28.7,3.1,21.9
+Brazil,2021,0.543,41.9,0.8,25.2
+South Africa,2021,0.62,50.5,0.5,55.5
+Mexico,2021,0.454,35.1,1.4,43.9
+Turkey,2021,0.404,30.7,2.1,17.2
+South Korea,2021,0.331,24.6,2.5,16.7
+Spain,2021,0.33,24.5,2.5,15.5
+Netherlands,2021,0.285,22.0,2.5,8.3
+Sweden,2021,0.275,21.3,3.8,9.3
+Norway,2021,0.262,20.5,3.9,8.4
+Denmark,2021,0.261,20.2,4.0,5.8
+Finland,2021,0.269,21.7,3.7,6.5
